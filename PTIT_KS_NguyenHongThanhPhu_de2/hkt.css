@@ -1,0 +1,172 @@
+body {
+    background-color: #0d1f35;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-nav {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-nav .nav-item {
+    margin-left: 80px;
+    
+}
+
+.nav-item a {
+    color: white;
+
+}
+
+.nav .btn {
+    margin-left: 100px;
+}
+
+.home-section {
+    margin-top: 25px;
+}
+
+
+.home-section h1,
+.home-section h2,
+.home-section p {
+    color: white;
+
+
+}
+
+
+.social-icon a i {
+    color: white;
+
+}
+
+.brand-section .owl-carousel {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+}
+
+.brand-section .owl-item {
+    flex: 0 0 auto;
+}
+
+.container {
+    color: white;
+
+}
+
+.review-box {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.r-box {
+    flex: 1;
+    
+    text-align: center;
+    
+    padding: 10px;
+   
+}
+
+.r-box h3 {
+    margin: 0;
+    border-radius: 10px;
+    
+}
+
+.r-box h3 span {
+    font-size: 14px;
+    
+}
+
+.r-box label {
+    font-size: 12px;
+    
+}
+
+.btn-bar {
+    margin-top: 20px;
+    
+}
+
+.px-btn {
+    display: inline-block;
+    text-decoration: none;
+    position: relative;
+}
+
+.px-btn button {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.px-btn i {
+    margin-left: 10px;
+    
+}
+
+.MainCard {
+    display: flex;
+   
+    flex-wrap: nowrap;
+    
+    overflow-x: auto;
+  
+    padding: 40px;
+}
+
+.card {
+    margin-right: 10px;
+   
+}
+
+.section-heading {
+    padding: 40px;
+}
+
+.CardMain {
+    padding: 40px;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.social-icons a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+   
+    height: 40px;
+   
+    border-radius: 50%;
+    
+    margin: 0 5px;
+ 
+    color: #fff;
+   
+    font-size: 20px;
+    
+    transition: background 0.3s ease;
+   
+}
+
+.social-icons a:hover {
+    opacity: 0.8;
+   
+}
+
+
+.social-icons a:hover i {
+    font-size: 22px;
+   
+}
